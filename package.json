@@ -1,6 +1,6 @@
 {
   "name": "@smarthtmlelements/smart-chart",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Chart Web Component - Chart Custom Element - https://www.HTMLElements.com",
   "main": "index.js",
   "scripts": {
