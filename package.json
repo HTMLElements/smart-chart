@@ -1,0 +1,29 @@
+{
+  "name": "@smarthtmlelements/smart-chart",
+  "version": "3.0.0",
+  "description": "Chart Web Component - Chart Custom Element - https://www.HTMLElements.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HTMLElements/smart-chart.git"
+  },
+  "keywords": [
+    "Chart",
+	"material Chart web component",
+	"Chart web component",
+	"Chart custom element",
+	"bootstrap Chart",
+	"datagrid",
+	"datagrid web component",
+	"datagrid custom element"
+  ],
+  "author": "https://www.htmlelements.com",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/HTMLElements/smart-chart/issues"
+  },
+  "homepage": "https://github.com/HTMLElements/smart-chart#readme"
+}
