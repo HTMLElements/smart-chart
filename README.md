@@ -1,10 +1,19 @@
-## Best Chart Custom Element has just arrived
+## Smart Chart
 
-The latest version of Smart HTML Elements, brings a full featured Chart Custom Element with more than 30 different Data Visualization options. The Chart Types supported are listed: [Chart Types](https://www.htmlelements.com/docs/chart-types/ "Chart Types").  
+# [Smart Chart Element](https://www.htmlelements.com)[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%2020%20free%20custom%20elements%20based%20on%20SmartHTMLElements%20&url=https://www.htmlelements.com/&via=htmlelements&hashtags=bootstrap,design,templates,autocomplete,chart,typeahead,developers,webcomponents,customelements,polymer,material)
 
-![Best Chart Custom Element](https://www.htmlelements.com/wp-content/docs/chart-custom-element-2.png "Best Chart Custom Element")  
+&nbsp;
+[![Price](https://img.shields.io/badge/price-$399-0098f7.svg)](https://github.com/HTMLElements/smart-chart/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/v/@smarthtmlelements/smart-chart.svg?style=flat)](https://www.npmjs.com/package/@smarthtmlelements/smart-chart)
+[![GitHub package version](https://img.shields.io/github/package-json/v/HTMLElements/smart-chart.svg)](https://github.com/HTMLElements/smart-chart)
+[![](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=www.htmlelements.com)](https://www.htmlelements.com)
 
-Our Chart Custom Element is written in JavaScript and CSS. It does not depend on any other third-party scripts. The rendering is achieved with SVG and HTML5 canvas. The Chart works well on mobile browsers and is the most feature-complete chart available in the web components world.  
+
+Feature-Complete Chart  Web Component with more than 30 different Data Visualization options. The Chart Types supported are listed: [Chart Types](https://www.htmlelements.com/docs/chart-types/ "Chart Types").  
+
+![Best Chart Web Component](https://www.htmlelements.com/wp-content/docs/chart-custom-element-2.png "Best Chart  Web Component")  
+
+Our Chart Web Component is written in JavaScript and CSS. It does not depend on any other third-party scripts. The rendering is achieved with SVG and HTML5 canvas. The Chart works well on mobile browsers and is the most feature-complete chart available in the web components world.  
 Data displayed on the Chart can be formatted in multiple different ways. For example, the charting element has a property called 'formatSettings' with the following data formatting options.  
 
 *   **decimalSeparator** - character used as a decimal separator. If not specified, the default separator is _'.'_
@@ -17,8 +26,13 @@ Data displayed on the Chart can be formatted in multiple different ways. For exa
 
 ![](https://www.htmlelements.com/wp-content/docs/chart-custom-element-18.png)  
 
-The image below illustrates the Axes supported by the custom element. Smart.Chart has two main types of axes - valueAxis and xAxis. Typically the valueAxis represents the vertical axis in the chart although you may choose to rotate the axes and in this case the valueAxis will be displayed horizontally. ![Chart Custom Element Axes](https://www.htmlelements.com/wp-content/docs/chart-custom-element-16.png "Chart Axes")  
+The image below illustrates the Axes supported by the web component. Smart.Chart has two main types of axes - valueAxis and xAxis. Typically the valueAxis represents the vertical axis in the chart although you may choose to rotate the axes and in this case the valueAxis will be displayed horizontally. ![Chart Web Component Axes](https://www.htmlelements.com/wp-content/docs/chart-custom-element-16.png "Chart Axes")  
 
 Smart.Chart also ships with 32 built-in color schemes which are used to automatically set colors for different series. You can change the color scheme by setting the colorScheme property of the chart. The available value are from 'scheme01' to 'scheme32'. By setting its 'theme' property, users can Data Visualize their graphics in 'Light' and 'Dark' mode. Smart.Chart is based on: [jqxChart](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxchart/ "jqxChart").  
 
-We invite you to look at our Chart Custom Element demos: [Chart overview](https://www.htmlelements.com/demos/chart/overview/)
+We invite you to look at Chart  Web Component demos: [Chart overview](https://www.htmlelements.com/demos/chart/overview/)
+
+
+## License
+
+Commercial
